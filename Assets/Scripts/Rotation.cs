@@ -6,7 +6,6 @@ public class Rotation : MonoBehaviour
 {
     public float rotation;
 
-
     // Start is called before the first frame update
     void Start()
     {
