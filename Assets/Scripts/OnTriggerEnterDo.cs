@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Events;
 
-public class OnCollisionDo : MonoBehaviour
+public class OnTriggerEnterDo : MonoBehaviour
 {
     [SerializeField] private UnityEvent action;
 
